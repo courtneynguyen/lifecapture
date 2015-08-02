@@ -1,0 +1,28 @@
+{
+  "name": "lifecapture",
+  "version": "1.0.0",
+  "description": "Mobile app with multi social integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/courtneynguyen/lifecapture"
+  },
+  "keywords": [
+    "meteorjs",
+    "nodejs",
+    "javascript",
+    "es6"
+  ],
+  "author": "Courtney Nguyen, Norman Fong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courtneynguyen/lifecapture/issues"
+  },
+  "homepage": "https://github.com/courtneynguyen/lifecapture",
+  "dependencies": {
+    "meteor": "^0.5.2-1"
+  }
+}
